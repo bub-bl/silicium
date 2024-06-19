@@ -1,0 +1,9 @@
+[package]
+name = "silicium"
+version = "0.1.0"
+edition = "2021"
+description = "silicium"
+license = "MIT"
+homepage = "https://github.com/silicium/silicium"
+
+[dependencies]
