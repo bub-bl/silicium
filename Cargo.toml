@@ -1,8 +1,8 @@
 [package]
 name = "silicium"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-description = "silicium"
+description = "Reserved for the Silicium project"
 license = "MIT"
 homepage = "https://github.com/silicium/silicium"
 
